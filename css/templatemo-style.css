@@ -987,7 +987,7 @@ header {
 
 #contact-content {
   padding: 80px 60px;
-  display: inline-flex;
+  display: inline-block;
 }
 
 #contact input {
